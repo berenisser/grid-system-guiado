@@ -21,3 +21,31 @@
 	top: 40%;
 	left: 35%;
 }
+
+/*HTML3*/
+.backphoto{
+	background-image: url(http://lorempixel.com/1024/200/nature/);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 30vh;
+}
+
+.titulo{
+	font-size: 50px;
+	color: whitesmoke;
+	text-align: center;
+	padding-top: 5%;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}
